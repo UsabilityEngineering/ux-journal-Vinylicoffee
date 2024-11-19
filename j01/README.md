@@ -12,11 +12,9 @@ Right off the bat I already have a few questions, the first relates to the clock
 
 Moving on from this, the left side "Cancel" button works as expected and differentiates itself from the others by having red text. With nothing happening with the rice cooker, pressing the button does not let out any noise, but I can feel it depress. If the rice cooker were in the process of making something, pressing the button lets out a loud chirp and cancels what it is doing. This provides quality **feedback** that something has happened, and the user can piece together that their action resulted in something, instead of making them second guess themselves.
 
-Image here
-
 The orange "Start/Reheat" button operates similarly. If I were to press it, it lets out a little tune to let me know that it is starting the process of making rice. It also has a red light the flicks on to also indicate that it is working. By the time that it has finished its process, it lets out another tune that is different from the first. Although probably not needed, it is **satisfying** and differentiates itself from other cookers, which may just use a one note tone to show that they are starting, or done.
 
-Image here
+![IMG_6332](https://github.com/user-attachments/assets/2f57afa7-66f4-4352-9cda-2bc14850f7ba)
 
 For the longest time, those have been the two buttons I have used considering that I have never cooked anything other than white rice, but I want to expand my horizons and see what else it can do. The "Keep Warm" button is a bit of an oddity to me, if only for the fact that the rice cooker immediately goes into this mode after having finished cooking something. Pressing the button changes the display to show how many hours the rice cooker has been on, and thinking about it now, having this button serves as a nice way to heat something up at the start of the day and return to a meal or left-overs without having to do anything. Like the other buttons, it too lets out a noise to indicate that something has happened and turns on a little orange light below the display.
 
