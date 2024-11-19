@@ -25,6 +25,7 @@ The "Menu" button is a bit confusing to me, because my **mental model** would li
 
 ![IMG_6333](https://github.com/user-attachments/assets/3a498a4a-3bf0-4443-b646-35d6ba63f397)
 
+![IMG_6336](https://github.com/user-attachments/assets/50b25538-c161-487d-884d-086909869de9)
 
 Pressing the button moves that arrow down once and after reaching "porridge" it swaps to the opposite side to "sweet". Reaching "cake" and "steam" allows the me change how long I want the rice cooker to run with the "up" and "down" arrows used for "Time Setting". If I press it one more time on "steam" it returns to the "white sushi" option. In this case, I believe that something instead of "Menu" for the button might be more appropriate considering that this **conceptual model** does not match my **mental model**. Something more appropriate could be like, "Food Choice" or "Food Option", but that is just me.
 
@@ -32,10 +33,10 @@ Pressing the "up" and "down" arrows for "Time Setting" changes the clock on the 
 
 Lastly, the "Timer" button looks like it will require me to bring out the manual, because I can not seem to get it to work as intended. Pressing it makes the display flash and I can change the time in *10 minute increments*, unlike the previously established 1 minute increments by just pressing the "Time Setting" buttons. 
 
-Image here
-
 It also displays a 2 new symbols, a clock and a 1, that I have no clue as to what they do, which is not very **intuitive**. Pressing the "Timer" button again brings up a 2 in place of the 1, and a third time brings it back to the 1 and clock, now requiring that I press the "Cancel" button to go back to the normal display.
 
-Image here
+![IMG_6338](https://github.com/user-attachments/assets/ae977429-d58b-47b6-a1fe-eb6edceb2eca)
+
+![IMG_6340](https://github.com/user-attachments/assets/b1f64f57-0d2e-4629-9ee4-ed873e7b9b57)
 
 Not only is this **inefficient**, but also goes against what was used for the "Menu" button. A better solution to this is making it work like the "Menu" button, only require it to be pressed multiple times to go back to a normal display, instead of using another button. Other than that, I would have to go and look at the manual to figure out what the symbols for the timer actually mean.
