@@ -6,7 +6,7 @@ In the days leading up to me attending college, my parents and I went out and bo
 
 The picture below displays the front facing portion of the rice cooker. Note the 7 buttons on the front and the screen that displays the time in a 24 hour clock.
 
-Image here
+![IMG_6331](https://github.com/user-attachments/assets/8776fa95-f960-4f48-a2d9-85c32def9187)
 
 Right off the bat I already have a few questions, the first relates to the clock. Here in the United States, we use a 12-hour clock, but this is clearly using a 24-hour clock. I had to look this up, but considering that the manufacturer is Japanese, I suppose that it would make sense to use this time convention. Although I am not opposed to using this system, it still takes me time to calculate what it actually is by our time conventions. The only reason that I do partially understand it, is because I play some games that use the 24-hour clock, and even then I still guestimate on approximate times, instead relagating it to things like, "oh, 20:00 is close to night" and "13:25 is like noon". That is to say, to the average person in the United States who is more familiar with the 12-hour clock, using this 24-hour system on the rice cooker is not **effective**.
 
