@@ -14,12 +14,11 @@ Moving on from this, the left side "Cancel" button works as expected and differe
 
 The orange "Start/Reheat" button operates similarly. If I were to press it, it lets out a little tune to let me know that it is starting the process of making rice. It also has a red light the flicks on to also indicate that it is working. By the time that it has finished its process, it lets out another tune that is different from the first. Although probably not needed, it is **satisfying** and differentiates itself from other cookers, which may just use a one note tone to show that they are starting, or done.
 
-![IMG_6332](https://github.com/user-attachments/assets/2f57afa7-66f4-4352-9cda-2bc14850f7ba)
+![IMG_6334](https://github.com/user-attachments/assets/38a2f627-18d8-4fe7-b295-59518e4b5f14)
 
 For the longest time, those have been the two buttons I have used considering that I have never cooked anything other than white rice, but I want to expand my horizons and see what else it can do. The "Keep Warm" button is a bit of an oddity to me, if only for the fact that the rice cooker immediately goes into this mode after having finished cooking something. Pressing the button changes the display to show how many hours the rice cooker has been on, and thinking about it now, having this button serves as a nice way to heat something up at the start of the day and return to a meal or left-overs without having to do anything. Like the other buttons, it too lets out a noise to indicate that something has happened and turns on a little orange light below the display.
 
-![IMG_6334](https://github.com/user-attachments/assets/3ccbfc19-6018-4431-877a-a6ea3b592c7e)
-
+![IMG_6334](https://github.com/user-attachments/assets/b20a1341-0f19-4cad-8c2d-a14cec3f9638)
 
 The "Menu" button is a bit confusing to me, because my **mental model** would like to think that it would pull up a little menu for choosing settings, hence its name, but it instead only changes what food I intend to cook via a little arrow pointing at each option.
 
@@ -39,4 +38,4 @@ It also displays a 2 new symbols, a clock and a 1, that I have no clue as to wha
 
 ![IMG_6340](https://github.com/user-attachments/assets/b1f64f57-0d2e-4629-9ee4-ed873e7b9b57)
 
-Not only is this **inefficient**, but also goes against what was used for the "Menu" button. A better solution to this is making it work like the "Menu" button, only require it to be pressed multiple times to go back to a normal display, instead of using another button. Other than that, I would have to go and look at the manual to figure out what the symbols for the timer actually mean.
+Not only is this **inefficient**, but also goes against what was used for the "Menu" button. A better solution to this is making it work like the "Menu" button, only require it to be pressed multiple times to go back to a normal display, instead of using another button. Other than that, I would have to go and look at the manual to figure out what the symbols for the timer actually mean. Until then, they will remain unused.
