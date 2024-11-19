@@ -18,4 +18,24 @@ The orange "Start/Reheat" button operates similarly. If I were to press it, it l
 
 Image here
 
-For the longest time, those have been the two buttons I have used considering that I have never cooked anything other than white rice. 
+For the longest time, those have been the two buttons I have used considering that I have never cooked anything other than white rice, but I want to expand my horizons and see what else it can do. The "Keep Warm" button is a bit of an oddity to me, if only for the fact that the rice cooker immediately goes into this mode after having finished cooking something. Pressing the button changes the display to show how many hours the rice cooker has been on, and thinking about it now, having this button serves as a nice way to heat something up at the start of the day and return to a meal or left-overs without having to do anything. Like the other buttons, it too lets out a noise to indicate that something has happened and turns on a little orange light below the display.
+
+Image here
+
+The "Menu" button is a bit confusing to me, because my **mental model** would like to think that it would pull up a little menu for choosing settings, hence its name, but it instead only changes what food I intend to cook via a little arrow point at each option and displays how long it would take in minutes on the display.
+
+Image here
+
+Pressing the button moves that arrow down once and after reaching "porridge" it swaps to the opposite side to "sweet". Reaching "cake" and "steam" allows the me change how long I want the rice cooker to run with the "up" and "down" arrows used for "Time Setting". If I press it one more time on "steam" it returns to the "white sushi" option. In this case, I believe that something instead of "Menu" for the button might be more appropriate considering that this **conceptual model** does not match my **mental model**. Something more appropriate could be like, "Food Choice" or "Food Option", but that is just me.
+
+Pressing the "up" and "down" arrows for "Time Setting" changes the clock on the display by 1 minute. The interesting bit about this is that none of the buttons serve as an "enter" button after I get to the correct time, with the cooker instead flashing the time for a few seconds before locking in place. While not inconvenient, it is slightly confusing to me considering that so many things require you to press an "enter" button to make what you did stick.
+
+Lastly, the "Timer" button looks like it will require me to bring out the manual, because I can not seem to get it to work as intended. Pressing it makes the display flash and I can change the time in *10 minute increments*, unlike the previously established 1 minute increments by just pressing the "Time Setting" buttons. 
+
+Image here
+
+It also displays a 2 new symbols, a clock and a 1, that I have no clue as to what they do, which is not very **intuitive**. Pressing the "Timer" button again brings up a 2 in place of the 1, and a third time brings it back to the 1 and clock, now requiring that I press the "Cancel" button to go back to the normal display.
+
+Image here
+
+Not only is this **inefficient**, but also goes against what was used for the "Menu" button. A better solution to this is making it work like the "Menu" button, only require it to be pressed multiple times to go back to a normal display, instead of using another button. Other than that, I would have to go and look at the manual to figure out what the symbols for the timer actually mean.
