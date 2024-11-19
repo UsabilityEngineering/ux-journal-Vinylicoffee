@@ -18,11 +18,13 @@ The orange "Start/Reheat" button operates similarly. If I were to press it, it l
 
 For the longest time, those have been the two buttons I have used considering that I have never cooked anything other than white rice, but I want to expand my horizons and see what else it can do. The "Keep Warm" button is a bit of an oddity to me, if only for the fact that the rice cooker immediately goes into this mode after having finished cooking something. Pressing the button changes the display to show how many hours the rice cooker has been on, and thinking about it now, having this button serves as a nice way to heat something up at the start of the day and return to a meal or left-overs without having to do anything. Like the other buttons, it too lets out a noise to indicate that something has happened and turns on a little orange light below the display.
 
-Image here
+![IMG_6334](https://github.com/user-attachments/assets/3ccbfc19-6018-4431-877a-a6ea3b592c7e)
 
-The "Menu" button is a bit confusing to me, because my **mental model** would like to think that it would pull up a little menu for choosing settings, hence its name, but it instead only changes what food I intend to cook via a little arrow point at each option and displays how long it would take in minutes on the display.
 
-Image here
+The "Menu" button is a bit confusing to me, because my **mental model** would like to think that it would pull up a little menu for choosing settings, hence its name, but it instead only changes what food I intend to cook via a little arrow pointing at each option.
+
+![IMG_6333](https://github.com/user-attachments/assets/3a498a4a-3bf0-4443-b646-35d6ba63f397)
+
 
 Pressing the button moves that arrow down once and after reaching "porridge" it swaps to the opposite side to "sweet". Reaching "cake" and "steam" allows the me change how long I want the rice cooker to run with the "up" and "down" arrows used for "Time Setting". If I press it one more time on "steam" it returns to the "white sushi" option. In this case, I believe that something instead of "Menu" for the button might be more appropriate considering that this **conceptual model** does not match my **mental model**. Something more appropriate could be like, "Food Choice" or "Food Option", but that is just me.
 
